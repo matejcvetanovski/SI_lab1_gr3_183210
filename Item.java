@@ -47,3 +47,15 @@ class Item {
 		return price * 0.15;
 	}
 }
+
+
+class Receipt{
+
+	List<Item> itemList;
+
+	public Receipt() {
+		this.itemList = new ArrayList();
+	}
+	
+	itemList.add();
+}
